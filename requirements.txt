@@ -1,0 +1,8 @@
+ucimlrepo
+pandas==2.1.4
+numpy==1.26.4
+seaborn==0.13.1
+matplotlib==3.7.1
+scikit-learn==1.5.2
+pygam==0.9.1
+scipy==1.11.4
