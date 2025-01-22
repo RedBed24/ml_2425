@@ -9,3 +9,13 @@ scikit-learn==1.5.2
 pygam==0.9.1
 scipy==1.11.4
 ipykernel==6.29.5
+wordcloud==1.9.4
+nltk==3.9.1
+umap-learn==0.5.7
+hdbscan==0.8.40
+datamapplot==0.5.0
+dask[dataframe]==2024.12.1
+sentence-transformers==3.3.1
+bertopic==0.16.4
+transformers==4.48.0
+emoji==2.14.1
